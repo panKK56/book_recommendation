@@ -1,0 +1,9 @@
+pandas 
+numpy
+utils
+scikit-learn
+dill
+pickle
+streamlit
+scipy
+-e .
